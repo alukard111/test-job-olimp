@@ -1,0 +1,194 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "author": "alexandr-green",
+      "title": "А. Грин, \"Алые паруса\"",
+      "genre": "Классика",
+      "price": "190",
+      "path": "books/alexandr-green.png"
+    },
+    {
+      "id": 3,
+      "author": "alexandr-pushkin",
+      "title": "А. Пушкин, \"Евгений Онегин\"",
+      "genre": "Классика",
+      "price": "170",
+      "path": "books/alexandr-pushkin.png"
+    },
+    {
+      "id": 4,
+      "author": "daniel-defo",
+      "title": "Д. Дефо, \"Робинзон Крузо\"",
+      "genre": "Приключения",
+      "price": "190",
+      "path": "books/daniel-defo.png"
+    },
+    {
+      "id": 5,
+      "author": "dante-alighieri",
+      "title": "Д. Алигье́ри, \"Божественная комендия\"",
+      "genre": "Классика",
+      "price": "183",
+      "path": "books/dante-alighieri.png"
+    },
+    {
+      "id": 6,
+      "author": "homer",
+      "title": "Гомер, \"Илиада\"",
+      "genre": "Эпос и фольклор",
+      "price": "194",
+      "path": "books/homer.png"
+    },
+    {
+      "id": 7,
+      "author": "ivan-goncharov",
+      "title": "И. Гончаров, \"Обломов\"",
+      "genre": "Классика",
+      "price": "160",
+      "path": "books/ivan-goncharov.png"
+    },
+    {
+      "id": 8,
+      "author": "luis-kerroll",
+      "title": "Л. Кэрролл, \"Алиса в Стране Чудес\"",
+      "genre": "Сказки",
+      "price": "192",
+      "path": "books/luis-kerroll.png"
+    },
+    {
+      "id": 9,
+      "author": "mikhail-bulgakov",
+      "title": "М. Булгаков, \"Мастер и Маргарита\"",
+      "genre": "Классика",
+      "price": "194",
+      "path": "books/mikhail-bulgakov.png"
+    },
+    {
+      "id": 10,
+      "author": "nikolay-gogol",
+      "title": "Н. Гоголь, \"Мертвые души\"",
+      "genre": "Классика",
+      "price": "199",
+      "path": "books/nikolay-gogol.png"
+    },
+    {
+      "id": 11,
+      "author": "nikolay-kun",
+      "title": "Н. Кун, \"Легенды и мифы Древней Греции\"",
+      "genre": "Эпос и фольклор",
+      "price": "153",
+      "path": "books/nikolay-kun.png"
+    },
+    {
+      "id": 12,
+      "author": "oskar-uayld",
+      "title": "О. Уайльд, \"Портрет Дориана Грея\"",
+      "genre": "Приключения",
+      "price": "194",
+      "path": "books/oskar-uayld.png"
+    },
+    {
+      "id": 13,
+      "author": "ray-bradbury",
+      "title": "Р. Брэдбери, \"Вино из одуванчиков\"",
+      "genre": "Современная проза",
+      "price": "190",
+      "path": "books/ray-bradbury.png"
+    },
+    {
+      "id": 14,
+      "author": "victor-gugo",
+      "title": "В. Гюго, \"Собор Парижской Богоматери\"",
+      "genre": "Классика",
+      "price": "190",
+      "path": "books/victor-gugo.png"
+    },
+    {
+      "id": 15,
+      "author": "zhuli-vern",
+      "title": "Ж. Верн, \"Двадцать тысяч лье под водой\"",
+      "genre": "Приключения",
+      "price": "190",
+      "path": "books/zhuli-vern.png"
+    }
+  ],
+  "hotNewBooks": [
+    {
+      "id": 2,
+      "author": "alexandr-green",
+      "title": "А. Грин, \"Алые паруса\"",
+      "genre": "Классика",
+      "price": "190",
+      "path": "books/alexandr-green.png"
+    },
+    {
+      "id": 3,
+      "author": "alexandr-pushkin",
+      "title": "А. Пушкин, \"Евгений Онегин\"",
+      "genre": "Классика",
+      "price": "170",
+      "path": "books/alexandr-pushkin.png"
+    },
+    {
+      "id": 4,
+      "author": "daniel-defo",
+      "title": "Д. Дефо, \"Робинзон Крузо\"",
+      "genre": "Приключения",
+      "price": "190",
+      "path": "books/daniel-defo.png"
+    },
+    {
+      "id": 5,
+      "author": "dante-alighieri",
+      "title": "Д. Алигье́ри, \"Божественная комендия\"",
+      "genre": "Классика",
+      "price": "183",
+      "path": "books/dante-alighieri.png"
+    },
+    {
+      "id": 6,
+      "author": "homer",
+      "title": "Гомер, \"Илиада\"",
+      "genre": "Эпос и фольклор",
+      "price": "194",
+      "path": "books/homer.png"
+    },
+    {
+      "id": 7,
+      "author": "ivan-goncharov",
+      "title": "И. Гончаров, \"Обломов\"",
+      "genre": "Классика",
+      "price": "160",
+      "path": "books/ivan-goncharov.png"
+    },
+    {
+      "id": 8,
+      "author": "luis-kerroll",
+      "title": "Л. Кэрролл, \"Алиса в Стране Чудес\"",
+      "genre": "Сказки",
+      "price": "192",
+      "path": "books/luis-kerroll.png"
+    },
+    {
+      "id": 9,
+      "author": "mikhail-bulgakov",
+      "title": "М. Булгаков, \"Мастер и Маргарита\"",
+      "genre": "Классика",
+      "price": "194",
+      "path": "books/mikhail-bulgakov.png"
+    },
+    {
+      "id": 10,
+      "author": "nikolay-gogol",
+      "title": "Н. Гоголь, \"Мертвые души\"",
+      "genre": "Классика",
+      "price": "199",
+      "path": "books/nikolay-gogol.png"
+    }
+  ],
+  "basketItems": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
